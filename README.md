@@ -7,7 +7,7 @@ A full-stack Personal Finance Command Center strictly designed to help users man
 ---
 
 ## 💻 Tech Stack
-* **Frontend:** React, Vite, Vanilla CSS (Premium Glassmorphism UI)
+* **Frontend:** React, Vite
 * **Backend:** Java, Spring Boot, Spring Data JPA, REST APIs
 * **Database:** TiDB Cloud (Distributed Serverless MySQL)
 * **Deployment:** Vercel (Frontend) & Render (Backend)
